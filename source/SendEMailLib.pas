@@ -6,16 +6,8 @@ uses
   Winapi.Windows,
   System.SysUtils,
   IdMessage,
-  IdBaseComponent,
-  IdComponent,
-  IdTCPConnection,
-  IdTCPClient,
-  IdExplicitTLSClientServerBase,
-  IdMessageClient,
-  IdSMTPBase,
   IdSMTP,
   IdAttachmentFile,
-  IdAntiFreezeBase,
   IdAntiFreeze;
 
 var

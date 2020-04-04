@@ -1,1 +1,2 @@
-# delphi-simplify
+source目录用来存放你写好的delphi单元文件
+examples目录存放你编写的对应实例
